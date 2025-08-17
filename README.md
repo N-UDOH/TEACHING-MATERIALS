@@ -34,5 +34,4 @@ This repository demonstrates:
 ## 📬 Contact
 - *Name*: Nicholas Udoh  
 - *Email*: nikkifiok@gmail.com  
-*Nicholas Udoh*  
 [GitHub Profile](https://github.com/N-UDOH) | [Email](mailto:nikkifiok@gmail.com) | [Website](https://nikkifiok.com)
