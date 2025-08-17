@@ -8,7 +8,7 @@ This repo contains curated resources, lecture notes, and coding examples designe
 ## 📂 Repository Structure
 This repo is organized into categories for easy use:
 
-- *Programming Languages* – Python, Java, C, and foundational computing concepts.  
+- *Programming Languages* – Python, Java, C, and foundational computing concepts. 
 - *Number Systems & Logic* – Binary, octal, hexadecimal, and conversions.  
 - *Data Science Essentials* – Beginner-friendly ML and data analysis notebooks.  
 - *Course-Specific Notes* – Materials tailored for university-level teaching (e.g., CIT 217).  
